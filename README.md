@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Upwork, Fiverr and Freelancer.com
+
 🌱 I’m currently learning Advance skills in JS.
+
 👯 I’m looking to collaborate on web designing projects.
-📫 How to reach me: Twitter- @devin02021 
-                    Instagram- _devin_231
+
+📫 How to reach me: Twitter- @devin02021     Instagram- _devin_231
 <!--
 **devin1324/devin1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
