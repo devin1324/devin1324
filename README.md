@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Upwork, Fiverr and Freelancer.com
+🔭 I’m currently working on Upwork and Fiverr
 
 🌱 I’m currently learning Advance skills in JS.
 
