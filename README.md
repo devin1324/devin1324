@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Upwork and Fiverr
+🔭 I’m currently working at Creativo-code.
 
-🌱 I’m currently learning Advance skills in JS.
+🌱 I’m currently learning Advance skills in Node JS.
 
-👯 I’m looking to collaborate on web designing projects.
+👯 I’m looking to collaborate on web development projects.
 
 📫 How to reach me: Twitter- @devin02021     Instagram- _devin_231
 <!--
