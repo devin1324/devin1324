@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently Building Creativo-Code and Eventofy.
+🔭 I’m currently Building CreativoCode and Eventofy.
 
 🌱 I’m currently learning Advance skills in Node JS.
 
